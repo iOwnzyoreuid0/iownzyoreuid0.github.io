@@ -1,0 +1,10 @@
+Package: com.kimjongun.iPhoneOSsdk
+Name: iPhoneOSsdk
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Install theos+sdk
+Depiction: http://rip.com
+Homepage: https://kim.com
+Author: iOwnzyoreuid0
+Section: System
+Maintainer: iOwnzyoreuid0
