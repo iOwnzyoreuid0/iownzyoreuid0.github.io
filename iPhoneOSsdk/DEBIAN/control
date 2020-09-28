@@ -1,5 +1,5 @@
 Package: com.kimjongun.iPhoneOSsdk
-Depends: firmware (>= 13.0), clang-10 (>= 10.0.0~svn-20191106+dcaf932-1), gzip
+Depends: clang-10 (>= 10.0.0~svn-20191106+dcaf932-1)
 Name: iPhoneOSsdk
 Version: 1.0
 Architecture: iphoneos-arm
